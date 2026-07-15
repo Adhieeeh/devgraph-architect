@@ -6,7 +6,7 @@ DevGraph is a highly interactive, client-side visual IDE engineered using React.
 ## Preview
 --------------------------------------------------------------------------------------
 ![](devg.png)
-![](devg1.)
+![](devg1.png)
 
 ##  Technical Highlights Explored
 ------------------------------------------------------------------------------------
