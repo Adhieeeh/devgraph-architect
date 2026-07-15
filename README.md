@@ -16,7 +16,7 @@ DevGraph is a highly interactive, client-side visual IDE engineered using React.
 *  **Zero-Dependency Core:** Standardizes pure React state flows and styling layers, eliminating memory leaks and frame-drops often caused by bulky, legacy node canvas libraries.
 
 ##  Running Instructions
-
+------------------------------------------------------------------------------------
 
 1. Download package assets: `npm install`
 2. Launch workspace profiling HUD: `npm run dev`
