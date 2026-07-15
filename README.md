@@ -1,4 +1,5 @@
-# 📐 DevGraph — Visual Node-Based Logic Blueprint & API Pipeline Architect (React)
+#  DevGraph — Visual Node-Based Logic Blueprint & API Pipeline Architect (React)
+----------------------------------------------------------------------------------------
 
 DevGraph is a highly interactive, client-side visual IDE engineered using React. It compiles nested, coordinate-based node maps into functional relational flows, utilizing pure HTML5 Drag and Drop APIs, inline coordinate math calculations, and native `<svg>` line plotting pathways to connect multi-node systems dynamically without heavy external graph framework libraries.
 
