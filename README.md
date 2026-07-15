@@ -18,6 +18,6 @@ DevGraph is a highly interactive, client-side visual IDE engineered using React.
 
 
 
-2. Launch workspace profiling HUD: `npm run dev`
+
 
 --------------------------------------------------------------------------------------
