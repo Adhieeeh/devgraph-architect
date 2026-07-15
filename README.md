@@ -8,7 +8,7 @@ DevGraph is a highly interactive, client-side visual IDE engineered using React.
 ![]()
 ![]()
 
-## ⚡ Technical Highlights Explored
+##  Technical Highlights Explored
 * 🖱️ **Coordinate Grid Math:** Custom scales client viewport drops (`onDrop`) to translate local drag positions into coordinate node objects.
 * 📐 **Adaptive Inline Vector Paths:** Dynamically recalculates linear line values and directional polygons on the fly as new elements are added to compile visual workflows.
 * 🛡️ **Zero-Dependency Core:** Standardizes pure React state flows and styling layers, eliminating memory leaks and frame-drops often caused by bulky, legacy node canvas libraries.
