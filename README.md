@@ -1,16 +1,12 @@
-# React + Vite
+# 📐 DevGraph — Visual Node-Based Logic Blueprint & API Pipeline Architect (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevGraph is a highly interactive, client-side visual IDE engineered using React. It compiles nested, coordinate-based node maps into functional relational flows, utilizing pure HTML5 Drag and Drop APIs, inline coordinate math calculations, and native `<svg>` line plotting pathways to connect multi-node systems dynamically without heavy external graph framework libraries.
 
-Currently, two official plugins are available:
+## ⚡ Technical Highlights Explored
+* 🖱️ **Coordinate Grid Math:** Custom scales client viewport drops (`onDrop`) to translate local drag positions into coordinate node objects.
+* 📐 **Adaptive Inline Vector Paths:** Dynamically recalculates linear line values and directional polygons on the fly as new elements are added to compile visual workflows.
+* 🛡️ **Zero-Dependency Core:** Standardizes pure React state flows and styling layers, eliminating memory leaks and frame-drops often caused by bulky, legacy node canvas libraries.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Running Instructions
+1. Download package assets: `npm install`
+2. Launch workspace profiling HUD: `npm run dev`
